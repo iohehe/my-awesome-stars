@@ -2,30 +2,37 @@
 star太多, 整理一下？
 
 # Payloads
-1. [AwesomeXSS](https://github.com/s0md3v/AwesomeXSS): s0md3v的xss攻击载核。
-2. [ihebski](https://github.com/ihebski/DefaultCreds-cheat-sheet): 设备口令字典
-3. [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings): 我的最爱
+- [AwesomeXSS](https://github.com/s0md3v/AwesomeXSS): s0md3v的xss攻击载核。
+- ihebski](https://github.com/ihebski/DefaultCreds-cheat-sheet): 设备口令字典
+- [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings): 我的最爱
 
-# Pen Tools
+
+# 渗透测试工具
+
 ## Recon
-1. [subfinder](https://github.com/projectdiscovery/subfinder): go语言写的域名探测器
+- [subfinder](https://github.com/projectdiscovery/subfinder): go语言写的域名探测器
+
+## Detect
+- [nmap](https://github.com/nmap/nmap): ~~我为什么要star nmap~~
 
 ## Web
-1. [hetty](https://github.com/dstotijn/hetty): 一个开源的go实现的burp
+- [hetty](https://github.com/dstotijn/hetty): 一个开源的go实现的burp
+
+## Exploit
 
 ## Scanner
-1. [xray](https://github.com/chaitin/xray)
+- [xray](https://github.com/chaitin/xray)
  
 
-# PL Tools
-1. [souffle](https://github.com/souffle-lang/souffle): datalog引擎
-2. [soot](https://github.com/soot-oss/soot): soot
-3. 
+# 程序分析工具
+
+- [souffle](https://github.com/souffle-lang/souffle): datalog引擎
+- [soot](https://github.com/soot-oss/soot): soot 
 
 # 漏洞挖掘工具
-1. [z3](https://github.com/Z3Prover/z3): 约束求解器
-2. [klee](https://github.com/klee/klee): 符号执行
-3. 
+
+- [z3](https://github.com/Z3Prover/z3): 约束求解器
+- [klee](https://github.com/klee/klee): 符号执行
 
 # 资料
 
