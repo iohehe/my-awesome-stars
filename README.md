@@ -3,7 +3,7 @@ star太多, 整理一下？
 
 # Payloads
 - [AwesomeXSS](https://github.com/s0md3v/AwesomeXSS): s0md3v的xss攻击载核。
-- ihebski](https://github.com/ihebski/DefaultCreds-cheat-sheet): 设备口令字典
+- [ihebski](https://github.com/ihebski/DefaultCreds-cheat-sheet): 设备口令字典
 - [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings): 我的最爱
 
 
