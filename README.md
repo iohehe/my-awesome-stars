@@ -35,9 +35,12 @@ star太多, 整理一下？
 # 程序分析工具
 
 - [souffle](https://github.com/souffle-lang/souffle): datalog引擎
-- [soot](https://github.com/soot-oss/soot): soot 
+- [soot](https://github.com/soot-oss/soot): java代码分析器
+- [wala](https://github.com/wala/WALA): java代码分析器
+- [doop](https://github.com/plast-lab/doop-mirror): java代码分析器(使用datalog)
 - [z3](https://github.com/Z3Prover/z3): 约束求解器
 - [klee](https://github.com/klee/klee): 符号执行
+- [tern](https://github.com/ternjs/tern): js代码分析器
 
 # 漏洞挖掘工具
 
