@@ -42,9 +42,6 @@ star太多, 整理一下？
 - [klee](https://github.com/klee/klee): 符号执行
 - [tern](https://github.com/ternjs/tern): js代码分析器
 
-# 漏洞挖掘工具
-
-
 
 # 资料
 - [AwesomeXSS](https://github.com/s0md3v/AwesomeXSS): s0md3v的xss攻击载核。
